@@ -26,7 +26,7 @@ Go-To-Market Links	5
 Appendix	5
 
 
-Context
+Context \pagebreak
 Include an introduction to the overall product initiative.  This will include the targeted users, the problem statement and a brief overview of why you are solving the problem.  This can mirror the same introduction that you have written in your Weekly Update Template. 
 
 COVID-19 has disrupted the American way of life, excluding citizens from being able to enjoy one of their favorite activities, eating out. However, as Americans begin to adapt to the new COVID_concerned environment, the task can be anxiety-provoking. Therefore, to ease this anxiety, we plan to create a tool that will empower Americans to return to their New Normal, while still relishing the activities of the past.
