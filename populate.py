@@ -1,3 +1,5 @@
+##populates the database with dummy users
+
 from app import app,db
 from datetime import datetime
 from app.models import *
